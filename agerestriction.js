@@ -1,4 +1,5 @@
 const prompt = require('prompt-sync')();
+
 function ageRestriction
 	let minimumAge = 10;
 let age = parseInt(prompt("Enter a age: "));
